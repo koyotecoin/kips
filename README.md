@@ -1,0 +1,1 @@
+  # Koyotecoin Improvement Proposals.
